@@ -196,9 +196,9 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Book Store]**
-- [ ] **[Gym icon]**
-- [ ] **[Gaming]**
+- [ ] **Book Store**
+- [ ] **Gym icon**
+- [ ] **Gaming**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
