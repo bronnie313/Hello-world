@@ -1,3 +1,5 @@
-# .gitignore
+# Dependency directories
 node_modules/
-test.md/
+
+#test files
+test.md
